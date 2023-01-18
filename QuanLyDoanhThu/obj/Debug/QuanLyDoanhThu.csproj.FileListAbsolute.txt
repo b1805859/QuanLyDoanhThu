@@ -1,0 +1,13 @@
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\bin\Debug\Database1.mdf
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\bin\Debug\Database1_log.ldf
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\bin\Debug\QuanLyDoanhThu.exe.config
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\bin\Debug\QuanLyDoanhThu.exe
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\bin\Debug\QuanLyDoanhThu.pdb
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.csproj.AssemblyReference.cache
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.csproj.SuggestedBindingRedirects.cache
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.Form1.resources
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.Properties.Resources.resources
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.csproj.GenerateResource.cache
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.csproj.CoreCompileInputs.cache
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.exe
+D:\Net\mvc\QuanLyDoanhThu\QuanLyDoanhThu\obj\Debug\QuanLyDoanhThu.pdb
